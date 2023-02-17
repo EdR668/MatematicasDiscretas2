@@ -1,2 +1,3 @@
 # MatematicasDiscretas2
-Algoritmo para determinar si una matriz es un Grupo o Cuadro Latino.
+Consolidado de proyectos, actividades y ejercicios del curso Matematicas Discretas 2. 
+
